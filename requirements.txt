@@ -1,5 +1,6 @@
 # Dependencias del proyecto
 # Trabajo Práctico: Recuperación de Información en la Web
+# Modificar según sea necesario
 
 # Librerías principales para consultas HTTP y APIs
 requests>=2.31.0

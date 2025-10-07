@@ -5,7 +5,12 @@ A continuación se detalla la estructura completa del proyecto, incluyendo códi
 
 Esta estructura está diseñada para facilitar la colaboración entre los integrantes del grupo, permitiendo que cada uno pueda trabajar en su módulo asignado y contribuir al proyecto de manera organizada.
 
-Pueden modificarla según sus necesidades, pero se recomienda mantener una estructura clara y coherente.
+> [!IMPORTANTE]
+> Pueden modificar la estructura del proyecto y adaptarla a sus necesidades.
+>
+> Se recomienda mantener una estructura clara y coherente para facilitar la colaboración.
+> 
+> Se recomienda crear un entorno virtual de Python para trabajar con este proyecto.
 
 ```
 tp-2025/
@@ -36,13 +41,6 @@ tp-2025/
 │   ├── test_rss.py              # Pruebas del módulo RSS
 │   └── test_interfaz.py         # Pruebas de la interfaz
 │
-├── 📁 equipo/                   # Organización del trabajo grupal
-│   ├── README.md                # Roles y responsabilidades
-│   ├── reuniones/               # Actas de reuniones
-│   │   └── plantilla_acta.md
-│   └── planificacion/           # Cronogramas y planificación
-│       └── cronograma.md
-│
 ├── 📁 data/                     # Datos generados (archivos CSV)
 │   ├── .gitkeep                 # Mantener directorio en git
 │   ├── articulos.csv            # Artículos científicos
@@ -51,8 +49,7 @@ tp-2025/
 │   └── noticias.csv             # Noticias de comercio internacional
 │
 ├── main.py                      # Punto de entrada principal
-├── requirements.txt             # Dependencias de Python
-└── ejemplo_ejecucion.txt        # Ejemplo de uso del sistema
+└── requirements.txt             # Dependencias de Python
 ```
 
 ## 🎯 Módulos del Sistema
