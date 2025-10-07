@@ -5,7 +5,7 @@ A continuación se detalla la estructura completa del proyecto, incluyendo códi
 
 Esta estructura está diseñada para facilitar la colaboración entre los integrantes del grupo, permitiendo que cada uno pueda trabajar en su módulo asignado y contribuir al proyecto de manera organizada.
 
-> [!IMPORTANTE]
+> [!TIP]
 > Pueden modificar la estructura del proyecto y adaptarla a sus necesidades.
 >
 > Se recomienda mantener una estructura clara y coherente para facilitar la colaboración.
