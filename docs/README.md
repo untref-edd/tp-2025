@@ -14,6 +14,7 @@ Esta carpeta contiene toda la documentación técnica del trabajo práctico.
 ### 1. Informe en Jupyter Notebook (.ipynb)
 
 El informe debe incluir:
+
 - **Análisis y diseño** de cada técnica (APIs, web scraping, RSS)
 - **Explicación de librerías** utilizadas y justificación
 - **Descripción de estructuras de datos** aplicadas
@@ -24,6 +25,7 @@ El informe debe incluir:
 ### 2. Presentación Oral
 
 Material para la presentación de 10-15 minutos que debe cubrir:
+
 - Descripción del problema resuelto
 - Enfoque técnico adoptado
 - Demostración del sistema funcionando

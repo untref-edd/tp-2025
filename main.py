@@ -12,6 +12,7 @@ Fecha: Noviembre 2025
 """
 
 import sys
+
 from src.interfaz import menu
 
 
@@ -25,7 +26,7 @@ def main():
     print("  Universidad Nacional de Tres de Febrero")
     print("=" * 70)
     print()
-    
+
     try:
         # Iniciar interfaz de consola
         menu.mostrar_menu_principal()

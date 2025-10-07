@@ -23,9 +23,9 @@ def mostrar_menu_principal():
         print("6. Acerca de")
         print("7. Salir")
         print()
-        
+
         opcion = input("Seleccione una opción [1-7]: ").strip()
-        
+
         if opcion == "1":
             print("\n⚠️  Función no implementada aún.")
             print("📝 TODO: Implementar consulta a OpenAlex API")
@@ -52,7 +52,7 @@ def mostrar_menu_principal():
                 break
         else:
             print("\n❌ Opción inválida. Por favor, seleccione una opción del 1 al 7.")
-        
+
         input("\nPresiona Enter para continuar...")
 
 

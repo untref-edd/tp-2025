@@ -11,11 +11,13 @@ Esta carpeta contiene el material para la presentación oral del trabajo prácti
 ## Contenido Sugerido
 
 ### 1. Introducción (2 minutos)
+
 - Presentación del equipo
 - Descripción breve del problema
 - Objetivos del trabajo
 
 ### 2. Enfoque Técnico (6-8 minutos)
+
 - Explicación de las técnicas utilizadas:
   - Consulta a APIs (OpenAlex, The Lens)
   - Web Scraping (eventos y ferias)
@@ -25,23 +27,26 @@ Esta carpeta contiene el material para la presentación oral del trabajo prácti
 - Desafíos técnicos y soluciones
 
 ### 3. Demostración (3-4 minutos)
+
 - Ejecución en vivo del sistema
 - Mostrar la interfaz de consola
 - Ejemplo de consulta a cada fuente
 - Visualización de archivos CSV generados
 
 ### 4. Resultados y Conclusiones (2 minutos)
+
 - Resultados obtenidos
 - Lecciones aprendidas
 - Trabajo en equipo
 - Posibles mejoras
 
 ### 5. Q&A (variable)
+
 - Preguntas del docente y audiencia
 
 ## Estructura Recomendada de Archivos
 
-```
+```text
 presentacion/
 ├── README.md (este archivo)
 ├── slides.pptx (o .pdf, .key, .odp)

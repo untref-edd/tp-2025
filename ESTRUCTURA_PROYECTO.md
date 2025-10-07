@@ -1,6 +1,7 @@
 # Estructura del Proyecto - Recuperación de Información en la Web
 
 ## 📁 Organización Completa del Espacio de Trabajo
+
 A continuación se detalla la estructura completa del proyecto, incluyendo código fuente, documentación, casos de prueba y organización del trabajo en equipo.
 
 Esta estructura está diseñada para facilitar la colaboración entre los integrantes del grupo, permitiendo que cada uno pueda trabajar en su módulo asignado y contribuir al proyecto de manera organizada.
@@ -9,17 +10,17 @@ Esta estructura está diseñada para facilitar la colaboración entre los integr
 > Pueden modificar la estructura del proyecto y adaptarla a sus necesidades.
 >
 > Se recomienda mantener una estructura clara y coherente para facilitar la colaboración.
-> 
+>
 > Se recomienda crear un entorno virtual de Python para trabajar con este proyecto.
 
-```
+```text
 tp-2025/
 ├── README.md                    # Descripción general del trabajo práctico
 ├── .gitignore                   # Archivos ignorados por git
 ├── ESTRUCTURA_PROYECTO.md       # Este archivo
 │
 ├── 📁 src/                      # Código fuente principal
-│   ├── README.md               
+│   ├── README.md
 │   ├── api/                     # Módulo para consultas a APIs (OpenAlex, The Lens)
 │   ├── scraping/                # Módulo de web scraping (eventos y ferias)
 │   ├── rss/                     # Módulo de procesamiento RSS (noticias)
@@ -82,6 +83,7 @@ tp-2025/
 ### Módulos de Soporte
 
 5. **`estructuras/`** - Estructuras de datos personalizadas
+
 6. **`utils/`** - Funciones auxiliares y utilidades
 
 ## 📋 Entregables Organizados

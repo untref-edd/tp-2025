@@ -19,22 +19,26 @@ Esta carpeta contiene todo el código fuente del proyecto organizado por módulo
 ## Técnicas Utilizadas
 
 ### 1. APIs (Parte 1)
+
 - OpenAlex API para artículos científicos
 - The Lens API para patentes
 - Manejo de requests HTTP
 - Parsing de respuestas JSON
 
 ### 2. Web Scraping (Parte 2)
+
 - BeautifulSoup para análisis de HTML
 - Scraping ético respetando robots.txt
 - Manejo de paginación y contenido dinámico
 
 ### 3. RSS Feeds (Parte 3)
+
 - Feedparser para lectura de feeds RSS
 - Procesamiento de XML
 - Extracción de metadatos
 
 ### 4. Estructuras de Datos
+
 - Listas, diccionarios, conjuntos
 - Estructuras personalizadas según necesidad
 - Análisis de complejidad algorítmica

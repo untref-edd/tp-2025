@@ -7,6 +7,7 @@ Esta carpeta contiene el Jupyter Notebook con el informe técnico completo del t
 El notebook debe incluir las siguientes secciones:
 
 ### 1. Introducción
+
 - Descripción del problema
 - Objetivos del trabajo
 - Tecnologías utilizadas
@@ -14,6 +15,7 @@ El notebook debe incluir las siguientes secciones:
 ### 2. Análisis y Diseño
 
 #### Parte 1: APIs
+
 - Análisis de OpenAlex API
 - Análisis de The Lens API
 - Diseño de la solución
@@ -21,6 +23,7 @@ El notebook debe incluir las siguientes secciones:
 - Estructuras de datos aplicadas
 
 #### Parte 2: Web Scraping
+
 - Análisis de los sitios web objetivo
 - Diseño del scraper
 - Explicación de librerías utilizadas (BeautifulSoup, requests)
@@ -28,6 +31,7 @@ El notebook debe incluir las siguientes secciones:
 - Estructuras de datos aplicadas
 
 #### Parte 3: RSS Feeds
+
 - Análisis de feeds RSS
 - Diseño del parser
 - Explicación de librerías utilizadas (feedparser)
@@ -35,33 +39,38 @@ El notebook debe incluir las siguientes secciones:
 - Estructuras de datos aplicadas
 
 #### Parte 4: Interfaz de Consola
+
 - Diseño de la interfaz de usuario
 - Integración de módulos
 - Manejo de errores
 
 ### 3. Implementación
+
 - Código relevante con explicaciones
 - Ejemplos de ejecución
 - Capturas de pantalla
 
 ### 4. Problemas Encontrados
+
 - Descripción de problemas técnicos
 - Soluciones implementadas
 - Lecciones aprendidas
 
 ### 5. Resultados
+
 - Archivos CSV generados
 - Análisis de los datos obtenidos
 - Estadísticas y visualizaciones
 
 ### 6. Conclusiones
+
 - Reflexión sobre el trabajo realizado
 - Aprendizajes del equipo
 - Posibles mejoras futuras
 
 ## Estructura Recomendada
 
-```
+```text
 notebook/
 ├── README.md (este archivo)
 ├── informe_tp.ipynb (notebook principal)

@@ -34,6 +34,7 @@ Para cada técnica implementada, documentar:
 ### Análisis de Complejidad
 
 Documentar la complejidad algorítmica de las operaciones principales:
+
 - Complejidad temporal
 - Complejidad espacial
 - Optimizaciones implementadas
@@ -41,6 +42,7 @@ Documentar la complejidad algorítmica de las operaciones principales:
 ### Comparación de Enfoques
 
 Comparar las diferentes técnicas utilizadas:
+
 - Ventajas y desventajas de cada método
 - Casos de uso apropiados
 - Lecciones aprendidas
