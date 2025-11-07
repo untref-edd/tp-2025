@@ -72,15 +72,23 @@ Toda la información consolidada debe guardarse en un único archivo CSV.
 
 Procesar _**feeds RSS**_ de las siguientes fuentes:
 
-- [https://www.wto.org/](https://www.wto.org/)
-- [https://comtradeplus.un.org/](https://comtradeplus.un.org/)
+- [https://es.investing.com/webmaster-tools/rss] secciones:
+  - Visión general del mercado [https://es.investing.com/rss/market_overview.rss] y
+  - Opinión y análisis de materias primas [https://es.investing.com/rss/commodities.rss]
+
+- [https://www.ambito.com/contenidos/rss.html] sección:
+  - Negocios [https://www.ambito.com/rss/pages/negocios.xml]
+
+- [https://eleconomista.com.ar/servicios/rss] secciones:
+  - Tecnología [https://eleconomista.com.ar/tech/feed/]
+  - Agro [https://eleconomista.com.ar/agro/feed/]
+  - Economía [https://eleconomista.com.ar/economia/feed/]
 
 El programa debe obtener:
 
 - Título
 - Fecha de publicación
 - Resumen
-- País asociado a la noticia
 
 Los resultados deben almacenarse en un archivo CSV.
 
